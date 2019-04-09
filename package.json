@@ -1,12 +1,23 @@
 {
-    "name": "bump",
-    "version": "1.0.0",
-    "main": "autobump.js",
-    "scripts": {
-      "start": "node autobump.js"
+  "name": "autobump",
+  "version": "1.0.0",
+  "description": "bump",
+  "main": "autobump.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node autobump.js"
   },
+  "keywords": [
+    "bot",
+    "fm"
+  ],
+  "author": "Yotym_FM",
+  "license": "ISC",
   "dependencies": {
-    "discord.js": "^11.2.1",
-    "request": "^2.83.0",
+    "discord.js": "^11.4.2",
+    "ffmpeg-binaries": "^4.0.0",
+    "nodemon": "^1.18.10",
+    "opusscript": "0.0.6",
+    "ytdl-core": "^0.29.1"
   }
 }
