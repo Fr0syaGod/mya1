@@ -1,15 +1,12 @@
 {
-  "name": "autobump",
-  "description": "Test",
-  "version": "0.0.0",
-  "main": "autobump.js",
-  "scripts": {
-    "start": "node autobump.js"
+    "name": "bump",
+    "version": "1.0.0",
+    "main": "autobump.js",
+    "scripts": {
+      "start": "node autobump.js"
   },
   "dependencies": {
-    "discord.js": "11.1.0",
-    "request": "2.81.0"
+    "discord.js": "^11.2.1",
+    "request": "^2.83.0",
   }
 }
-   }	
-		
