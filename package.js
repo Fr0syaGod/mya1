@@ -1,13 +1,8 @@
 {
   "name": "autobump",
   "version": "1.0.0",
-  "description": "auto bump server Fr0sya",
+  "description": "hi baby",
   "main": "autobump.js",
-  "scripts": {
-    "start": "node autobump.js"
-	},
   "dependencies": {
-   "discord.js": "11.4.2"
-   "request": "2.81.0"
-   }
-  }
+    "discord.js": "^11.4.2",
+    "discord.js-commando": "^0.10.0"
