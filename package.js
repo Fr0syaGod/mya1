@@ -1,5 +1,6 @@
 {
   "name": "autobump",
+  "version": "1.0.0",
   "description": "auto bump server Fr0sya",
   "main": "autobump.js",
   "scripts": {
