@@ -6,3 +6,5 @@
   "dependencies": {
     "discord.js": "^11.4.2",
     "discord.js-commando": "^0.10.0"
+}
+
