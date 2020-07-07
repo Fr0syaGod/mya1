@@ -12,7 +12,7 @@
     "fm"
   ],
   "author": "Yotym_FM",
-  "license": "ISC",
+  "license": "NONE",
   "dependencies": {
     "discord.js": "^11.4.2",
     "ffmpeg-binaries": "^4.0.0",
